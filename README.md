@@ -16,6 +16,6 @@ Start with a concrete requirement, examine a plausible design and its failure mo
 
 ## Author
 
-Written by [Alby Raju](https://github.com/alby-raju) with AI assistance. Reference links are included in the lessons.
+Written by [Alby Raju](https://github.com/alby-raju). Reference links are included in the lessons.
 
 No license has been selected; reuse permissions remain unresolved.
