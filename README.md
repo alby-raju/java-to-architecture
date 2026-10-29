@@ -7,6 +7,7 @@ Practical Java lessons exploring software design, performance, and architecture.
 | # | Lesson | Topics |
 | --- | --- | --- |
 | 01 | [Ownership and Encapsulation](Lesson_01_Java_Ownership_Encapsulation.pdf) | References, mutation, defensive copying, snapshots, read-only access, and memory trade-offs |
+| 02 | [Immutability and Allocation Trade-offs](Lesson_02_Immutability_Allocation_tradeof.pdf) | Immutable registries, ownership boundaries, defensive copying, allocation, and throughput |
 
 Read the PDF on GitHub or download it for offline study.
 
